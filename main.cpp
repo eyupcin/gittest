@@ -6,6 +6,8 @@
  */
 
 #include <cstdlib>
+#include "cstdio"
+#include <iostream>
 
 using namespace std;
 
@@ -13,7 +15,7 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-
+    cout << "bu bir gir projesidir...." << endl;
     return 0;
 }
 
