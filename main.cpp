@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
     
     
     cout << "bu bir gir projesidir...." << endl;
-    
+    //gittest
     
     return 0;
 }
